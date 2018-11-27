@@ -1,0 +1,65 @@
+.hd
+{
+	font-size: 26px;
+	text-align: center;
+	font-weight: 700;
+	margin: 0;
+}
+.date
+{
+	font-size: 18px;
+	text-align: right;
+	color: gray;
+	margin: 0;
+}
+.bd
+{
+	font-size: 18px;
+	text-align: center;
+}
+.post{
+	max-width: 1000px;
+	margin: auto;
+	margin-top: 10px;
+	padding: 20px 200px;
+	background-color: white;
+}
+
+
+.navbar {
+  overflow: hidden;
+  background-color: rgb(38, 38, 38);
+   margin: 0px;
+  
+}
+.visual
+{
+	display: block;
+	margin: 20px auto;
+	border: 2px solid rgb(204, 105, 0);
+}
+
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  border: solid 2px  rgb(38, 38, 38);
+  margin: 0px;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.navbar a.active {
+  background-color: rgb(204, 105, 0);
+  color:  rgb(0, 0, 51);
+  
+}
+.background{
+	background-color: rgb(191, 191, 191);
+}
